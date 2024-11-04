@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jihyeonseong
 - 👀 I’m interested in AI - Deep learning: TimeSeries, Vision, Medical, Finance
 - 🌱 I’m currently learning at KAIST (Seoul, Korea)
-- 💞️ I’m looking to collaborate on some exciting projects.
+- 💞️ I’m looking for exciting collaboration projects.
 - 📫 How to reach me: jihyeon.seong@kaist.ac.kr
-- 😄 Pronouns: J
+- 😄 Pronouns: JH
 - ⚡ Web: [LinkedIn](https://www.linkedin.com/in/jihyeon-seong-302571267/) / [Twitter](https://twitter.com/monoun39)
 
 <!---
